@@ -1,0 +1,6 @@
+__pycache__
+venv
+.venv
+knn_iris_model.joblib
+label_encoder.joblib
+requirementss.txt
